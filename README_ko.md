@@ -4,6 +4,16 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/right-pads">
+    <img src="https://img.shields.io/npm/v/right-pads?style=flat-square&color=CB3837" alt="npm version">
+  </a>
+  <a href="https://www.npmjs.com/package/right-pads">
+    <img src="https://img.shields.io/npm/dw/right-pads?style=flat-square&color=blue" alt="npm downloads">
+  </a>
+  <img src="https://img.shields.io/github/license/hslcrb/npmpack_right-pads?style=flat-square" alt="license">
+</p>
+
 # right-pads `v1.0` 🔥
 
 > **가장 빠르고, 가장 강력하다. 오직 속도뿐.**

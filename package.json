@@ -1,0 +1,25 @@
+{
+  "name": "right-pad",
+  "version": "1.0.0",
+  "description": "A very simple package that adds a space to the right of a string.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node dist/index.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "right-pad",
+    "pad",
+    "string",
+    "simple"
+  ],
+  "author": "Rheehose (Rhee Creative)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}

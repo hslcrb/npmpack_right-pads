@@ -22,10 +22,11 @@ Help us keep `right-pad` open and inclusive. Please read and follow our [Code of
 
 ### Pull Requests
 1. Fork the repo and create your branch from `main`.
-2. Add your code and ensure it follows the project style.
-3. Update documentation if necessary.
-4. Run tests: `npm test`.
-5. Submit your PR!
+2. Add your code and ensure it follows the **Extreme Performance First** philosophy.
+3. Use **NPM ONLY** for all dependency and script management.
+4. Update documentation if necessary.
+5. Run tests: `npm test`.
+6. Submit your PR!
 
 ## 💻 Local Development
 

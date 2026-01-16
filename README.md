@@ -4,30 +4,31 @@
   </a>
 </p>
 
-# right-pad `v1.0`
+# right-pad `v1.0` 🔥
 
-> **Extreme speed. Zero bloat. One space.**
+> **The Fastest. The Most Powerful. Pure Speed.**
 
-The world's most optimized package to append a space to a string. 
+The global standard for high-performance string padding. Engineered for absolute speed and zero overhead.
 
-## ⚡️ Extreme Quick Start
+## ⚡️ Extreme Quick Start (NPM Only)
 
 ```bash
 npm i right-pad
 ```
 
-## 🛠 Usage (One Word)
+## 🛠 Extreme Usage (One Word)
 
 ```typescript
 import r from 'right-pad';
 
-r('hello'); // 'hello '
+r('opt'); // 'opt '
 ```
 
-## 🚀 Performance
-- **O(1) Time Complexity**
-- **Zero Dependencies**
-- **Hyper-optimized V8 concantenation**
+## 🏎 Performance Benchmark: GOD MODE
+- **Time Complexity**: **O(1)** (Theoretical Limit)
+- **Dependency**: **0.0%** (Zero Bloat)
+- **Memory**: **Nano-scale** footprint
+- **Engine**: Optimized for **V8 JIT / Bun / Deno**
 
 ## 📄 Documentation
 

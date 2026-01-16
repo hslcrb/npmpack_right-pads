@@ -10,18 +10,23 @@
 
 고성능 문자열 패딩의 글로벌 표준. 절대적인 속도와 제로 오버헤드를 위해 설계되었습니다.
 
-## ⚡️ 초고속 시작 (NPM 전용)
+## ⚡️ 초고속 시작 (NPM)
 
 ```bash
-npm i right-pad
+npm install right-pad
+# 또는 더 짧게: npm i right-pad
 ```
 
-## 🛠 극한의 사용법 (단 한 단어)
+## 🛠 극한의 사용법 (두 가지 방식)
 
 ```typescript
+// 방법 1: 가장 빠른 한 글자 (The fastest word)
 import r from 'right-pad';
-
 r('최적화'); // '최적화 '
+
+// 방법 2: 명확한 이름 (The descriptive word)
+import { right } from 'right-pad';
+right('최적화'); // '최적화 '
 ```
 
 ## 🏎 성능 벤치마크: GOD MODE

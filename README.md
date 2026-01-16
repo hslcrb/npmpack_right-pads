@@ -10,18 +10,23 @@
 
 The global standard for high-performance string padding. Engineered for absolute speed and zero overhead.
 
-## ⚡️ Extreme Quick Start (NPM Only)
+## ⚡️ Extreme Quick Start (NPM)
 
 ```bash
-npm i right-pad
+npm install right-pad
+# or just: npm i right-pad
 ```
 
-## 🛠 Extreme Usage (One Word)
+## 🛠 Extreme Usage (Two Ways)
 
 ```typescript
+// Option 1: The fastest word
 import r from 'right-pad';
-
 r('opt'); // 'opt '
+
+// Option 2: The descriptive word
+import { right } from 'right-pad';
+right('opt'); // 'opt '
 ```
 
 ## 🏎 Performance Benchmark: GOD MODE
